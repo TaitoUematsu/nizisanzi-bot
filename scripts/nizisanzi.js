@@ -576,13 +576,13 @@ module.exports = (robot) => {
         https://www.youtube.com/channel/UCufQu4q65z63IgE4cfKs1BQ`)
     })
     robot.hear(/瀬戸美夜子|せとみや/i, (msg) => {
-        msg.send(`の公式サイトです
+        msg.send(`瀬戸美夜子の公式サイトです
         https://nijisanji.ichikara.co.jp/member/miyako-seto/`)
 
-        msg.send(`の非公式Wikiです
+        msg.send(`瀬戸美夜子の非公式Wikiです
         https://wikiwiki.jp/nijisanji/%E7%80%AC%E6%88%B8%E7%BE%8E%E5%A4%9C%E5%AD%90`)
 
-        msg.send(`のYutubeチャンネルです
+        msg.send(`瀬戸美夜子のYutubeチャンネルです
         https://www.youtube.com/channel/UCHK5wkevfaGrPr7j3g56Jmw`)
     })
     robot.hear(/御伽原江良|江良ちゃん|エラちゃん|ギバラ/i, (msg) => {
@@ -722,13 +722,13 @@ module.exports = (robot) => {
         https://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ`)
     })
     robot.hear(/加賀美ハヤト|社長/i, (msg) => {
-        msg.send(`の公式サイトです
+        msg.send(`加賀美ハヤトの公式サイトです
         https://nijisanji.ichikara.co.jp/member/hayato-kagami/`)
 
-        msg.send(`の非公式Wikiです
+        msg.send(`加賀美ハヤトの非公式Wikiです
         https://wikiwiki.jp/nijisanji/%E5%8A%A0%E8%B3%80%E7%BE%8E%E3%83%8F%E3%83%A4%E3%83%88`)
 
-        msg.send(`のYutubeチャンネルです
+        msg.send(`加賀美ハヤトのYutubeチャンネルです
         https://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ`)
     })
     robot.hear(/夜見れな/i, (msg) => {
@@ -742,7 +742,7 @@ module.exports = (robot) => {
         https://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ`)
     })
     robot.hear(/黛灰|まゆゆ/i, (msg) => {
-        msg.send(`の公式サイトです
+        msg.send(`黛灰の公式サイトです
         https://nijisanji.ichikara.co.jp/member/kai-mayuzumi/`)
 
         msg.send(`黛灰の非公式Wikiです
