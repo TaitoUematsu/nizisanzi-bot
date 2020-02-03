@@ -944,6 +944,11 @@ module.exports = (robot) => {
         msg.send(`来栖夏芽のYutubeチャンネルです
         https://www.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA`)
     })
+    robot.hear(/あああ/i, (msg) => {
+        msg.send(`https://www.youtube.com/watch?v=bxrYgbCZWDs`)
+
+ 
+    })
     //-------------------------------------------------------------------------------
 
 };
